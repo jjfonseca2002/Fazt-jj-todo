@@ -1,0 +1,19 @@
+Este es un curso actualizado de Fazt en el que se desarrolla el mismo programa de listas
+de tareas pero más ampliado.
+
+Una de las caracteristicas que mas me interesa es que reemplaza el manejador de vistas que no 
+me funcionó en el proyecto de la carpeta -node mongo- por el programa hadlebars, el cual parece
+que es más utilizado por la comunidad de desarroladores, y a ver si este si me funciona
+
+Tambien hace un deploy con Heroku lo cual me interesa mucho aprender.
+
+BABEL es un compilador de JS que permite usar codigo nuevo en JS y que este lo traduzca a código 
+antiguo de JS o viceversa, lo cual nos permite que nuestra aplicacion corra bien en diferentes
+navegadores aunque estos sean antiguos
+
+para instalarlo se usa NPM y usamos el -D para especificar que solo lo usaremos en modo desarrollador
+EJ: npm i -D @babel/core
+    babel/core  - Instala el compilador de babel
+    babel/cli   - Instala el cliente para poder usar Babel desde la consola o Terminal
+    babel/node  - Instala el compilador de Babel para lenguaje de NodeJS
+    babel/preset-env - Nos permite tener todas las nuevas caracteristicas de JS dentro de NodeJS
