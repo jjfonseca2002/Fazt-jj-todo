@@ -9,7 +9,7 @@ import favicon from "serve-favicon";
 const servidor = express();
 
 //Favicon
-servidor.use(favicon(path.join(__dirname, './Public/images', '167.ico')));
+//servidor.use(favicon(path.join(__dirname, './Public/images', '167.ico')));
 
 //VISTAS
 //Definimos donde esta la carpeta views - se ayuda de path
